@@ -52,6 +52,10 @@ Activate your environment by running:
 
 2. Install PyTorch if you don't have it already. Refer to [PyTorch's website](https://pytorch.org/get-started/locally/) for installation instructions.
 
+   ```
+   pip3 install torch torchvision
+   ```
+
 3. Install the required dependencies:
    ```
    pip install -r requirements.txt
