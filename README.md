@@ -38,6 +38,18 @@ WhisperClip simplifies your life by automatically transcribing audio recordings 
    cd whisper-clip
    ```
 
+Create new virtual environment by running:
+
+   ```
+   python3 -m venv ~/.virtualenvs/whisper-clip
+   ```
+
+Activate your environment by running:
+
+   ```
+   source ~/.virtualenvs/whisper-clip/bin/activate
+   ```
+
 2. Install PyTorch if you don't have it already. Refer to [PyTorch's website](https://pytorch.org/get-started/locally/) for installation instructions.
 
 3. Install the required dependencies:
