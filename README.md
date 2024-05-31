@@ -50,6 +50,11 @@ Activate your environment by running:
    source ~/.virtualenvs/whisper-clip/bin/activate
    ```
 
+Having issues with not finding the module "_tkinter"
+   ```
+   brew install tcl-tk
+   ```
+
 2. Install PyTorch if you don't have it already. Refer to [PyTorch's website](https://pytorch.org/get-started/locally/) for installation instructions.
 
    ```
