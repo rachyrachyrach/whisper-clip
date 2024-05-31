@@ -52,7 +52,7 @@ Activate your environment by running:
 
 Having issues with not finding the module "_tkinter"
    ```
-   brew install tcl-tk
+   brew install python-tk@3.12
    ```
 
 2. Install PyTorch if you don't have it already. Refer to [PyTorch's website](https://pytorch.org/get-started/locally/) for installation instructions.
